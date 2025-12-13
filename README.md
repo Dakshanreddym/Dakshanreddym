@@ -13,7 +13,7 @@
 - 🔭 Developing a **Crime Type Analysis** project using **TensorFlow + LangChain**
 - 🚀 Passionate about **Artificial Intelligence**, **Full Stack Development**, and **Mindful Computing**
 - 💬 Ask me about **Java**, **Python**, **DSA**, and **Networking Concepts**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/your-link)** or visit my **[Portfolio](https://your-portfolio-link)**
+- 📫 Connect with me on **[LinkedIn]((https://www.linkedin.com/in/dakshan-reddy-m-105190271/))** or visit my **[Portfolio](https://your-portfolio-link)**
 
 ---
 
